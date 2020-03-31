@@ -1,0 +1,74 @@
+
+/* Class = "UILabel"; text = "Daniel"; ObjectID = "080-nV-fbK"; */
+"080-nV-fbK.text" = "Daniel";
+
+/* Class = "UILabel"; text = "Amos"; ObjectID = "3SF-RL-Y35"; */
+"3SF-RL-Y35.text" = "Amos";
+
+/* Class = "UILabel"; text = "Ezekiel"; ObjectID = "3xd-lk-Rod"; */
+"3xd-lk-Rod.text" = "Ezekiel";
+
+/* Class = "UILabel"; text = "Luke"; ObjectID = "73I-k4-JGo"; */
+"73I-k4-JGo.text" = "Luc";
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Le principal";
+
+/* Class = "UILabel"; text = "Mark"; ObjectID = "9Cn-1H-pD5"; */
+"9Cn-1H-pD5.text" = "Marc";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Arm-wq-HPj"; */
+"Arm-wq-HPj.text" = "Le titre";
+
+/* Class = "UILabel"; text = "Matthew"; ObjectID = "AyJ-Ek-ckb"; */
+"AyJ-Ek-ckb.text" = "Matthieu";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "H05-J7-la4"; */
+
+
+
+
+//"H05-J7-la4.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+
+
+
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Le détail";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Le principal";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "Saj-0L-qMK"; */
+"Saj-0L-qMK.normalTitle" = "Remonter";
+
+/* Class = "UILabel"; text = "Samuel"; ObjectID = "Wcx-qS-lzu"; */
+"Wcx-qS-lzu.text" = "Samuel";
+
+/* Class = "UILabel"; text = "But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet.  Luke 7:26 NIV"; ObjectID = "Y24-TR-TSk"; */
+"Y24-TR-TSk.text" = "Mais qu'êtes-vous allés voir? Un prophète? Oui, vous dis-je, et plus qu'un prophète. Luc 7:26 OST";
+
+/* Class = "UINavigationItem"; title = "Master"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Le principal";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "aZO-wN-ezc"; */
+"aZO-wN-ezc.title" = "Sur";
+
+/* Class = "UITabBarItem"; title = "photos"; ObjectID = "h8O-Tq-8qF"; */
+"h8O-Tq-8qF.title" = "photos";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Le détail";
+
+/* Class = "UILabel"; text = "John"; ObjectID = "nUl-XZ-q4C"; */
+"nUl-XZ-q4C.text" = "Jean";
+
+/* Class = "UIViewController"; title = "FeaturedController"; ObjectID = "vgM-Ht-fsL"; */
+"vgM-Ht-fsL.title" = "Le contrôleur en vedette";
+
+/* Class = "UIViewController"; title = "SearchController"; ObjectID = "w0q-g5-yYf"; */
+"w0q-g5-yYf.title" = "Le contrôleur de recherche";
+
+/* Class = "UITabBarItem"; title = "Journal"; ObjectID = "xAq-1r-izM"; */
+"xAq-1r-izM.title" = "Journal";

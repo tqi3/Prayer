@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Prayer
+
+  Created by Apple on 2018/11/27.
+  Copyright © 2018 CSC 214. All rights reserved.
+*/
+
+"str_sorrowful"                         = "Sorrowful";
+"str_joyful"                            = "Joyful";
+"str_luminous"                          = "Luminous";
+"str_glorious"                          = "Glorious";
+"str_day"                               = "Day ";
+"str_alertName"                         = "Warning";
+"str_deleteWarning"                     = "You cannot delete from nothing";
+"str_cancel"                            = "cancel";
+"str_selectItemToAdd"                   = "Select a mystery to add:";
+"str_reset"                             = "Reset";
+"str_notCoolWarning_message"            = "You should finish tapping";
+"str_notCoolWarning"                    = "Not Cool Warning";
+"str_resetWarning_message"              = "You sure? You cannot undo it";
+"str_resetWarning"                      = "Reset Warning";
+"str_rTitle"                            = "reset alert";
+"str_nTitle"                            = "please finish";
+"str_damID"                             = "ENGKJVN2ET";
+"str_amos"                              = "Amos";
+"str_samuel"                            = "Samuel";
+"str_daniel"                            = "Daniel";
+"str_ezekiel"                           = "Ezekiel";
+"str_matthew"                           = "Matthew";
+"str_mark"                              = "Mark";
+"str_luke"                              = "Luke";
+"str_john"                              = "John";
+"str_appName"                           = "App Name: ";
+"str_appVersion"                        = "App Version: ";
+"str_appBundle"                         = "Bundle Number: ";
+"str_numberLaunches"                    = "Number of Launches: ";
+"str_lastAccessTime"                    = "Last Time Accessed: ";
+"str_ok"                                = "OK";
+"str_noCamera"                          = "No camera found";
+"str_go"                                = "Go";
+"str_start"                             = "Start";
+"str_end"                               = "End";
+"str_latitude"                          = "Latitude: ";
+"str_longitude"                         = "Longitude: ";
+"str_settings"                          = "Settings";
+"str_CLNoService"                       = "No Location Services";
+"str_CLDeniedPerm"                      = "This app was denied permission.";
+"str_CLBlocked"                         = "This app is blocked by parental controls.";
+"str_hello"                             = "You are now praying at: ";
+"str_god"                               = "Take down the moment!";
+"str_origin"                            = "Lord's";
+"str_origin2"                           = "Land";
+"str_deletePhotoWarning_message"        = "You cannot undo this action";
+"str_deletePhotoWarning"                = "Photo Deletion Warning";
+"str_deletePhoto"                       = "Delete Photo";
+"str_pdTitle"                           = "Photo Deletion Alert";

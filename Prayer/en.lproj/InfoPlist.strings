@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Prayer
+
+  Created by Apple on 2018/12/3.
+  Copyright © 2018 CSC 214. All rights reserved.
+*/
+"Privacy - Location When In Use Usage Description" = "Prayer would like to get your location.";
+"Privacy - Photo Library Usage Description"        = "Prayer needs permission to access the photo library.";
+"Privacy - Camera Usage Description"               = "Prayer needs permission to access the camera.";

@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Prayer
+
+  Created by Apple on 2018/11/27.
+  Copyright © 2018 CSC 214. All rights reserved.
+*/
+
+"str_sorrowful"                         = "Douloureux";
+"str_joyful"                            = "Joyeux";
+"str_luminous"                          = "Lumineux";
+"str_glorious"                          = "Glorieux";
+"str_day"                               = "Jour ";
+"str_alertName"                         = "Attention";
+"str_deleteWarning"                     = "Vous ne pouvez pas supprimer de rien.";
+"str_cancel"                            = "annuler";
+"str_selectItemToAdd"                   = "Sélectionnez un mystère à ajouter: ";
+"str_reset"                             = "Remonter";
+"str_notCoolWarning_message"            = "Tu devrais le finir";
+"str_notCoolWarning"                    = "avertissement pas cool";
+"str_resetWarning_message"              = "Vous ne pouvez pas le défaire.";
+"str_resetWarning"                      = "réinitialiser l'avertissement";
+"str_rTitle"                            = "réinitialiser l'alerte";
+"str_nTitle"                            = "S'il vous plaît finir";
+"str_damID"                             = "FRNDBYN2ET";
+"str_amos"                              = "Amos";
+"str_samuel"                            = "Samuel";
+"str_daniel"                            = "Daniel";
+"str_ezekiel"                           = "Ezekiel";
+"str_matthew"                           = "Matthieu";
+"str_mark"                              = "Marc";
+"str_luke"                              = "Luc";
+"str_john"                              = "Jean";
+"str_appName"                           = "Nom de l'application: ";
+"str_appVersion"                        = "Version de l'application: ";
+"str_appBundle"                         = "Numéro de paquet: ";
+"str_numberLaunches"                    = "Nombre de lancements: ";
+"str_lastAccessTime"                    = "Dernier accès: ";
+"str_ok"                                = "D'accord";
+"str_noCamera"                          = "Aucune caméra trouvée";
+"str_go"                                = "Allez";
+"str_start"                             = "Débuter";
+"str_end"                               = "Terminer";
+"str_latitude"                          = "Latitude";
+"str_longitude"                         = "Longitude";
+"str_settings"                          = "Réglages";
+"str_CLNoService"                       = "No Location Services";
+"str_CLDeniedPerm"                      = "Cette application a été refusée la permission.";
+"str_CLBlocked"                         = "Cette application est bloquée par les contrôles parentaux.";
+"str_hello"                             = "Tu pries maintenant à:";
+"str_god"                               = "Prendre le moment!";
+"str_origin"                            = "Terre";
+"str_origin2"                           = "de Dieu";
+"str_deletePhotoWarning_message"        = "Vous ne pouvez pas annuler cette action";
+"str_deletePhotoWarning"                = "Avertissement de suppression de photo";
+"str_deletePhoto"                       = "Supprimer la photo";
+"str_pdTitle"                           = "Alerte de suppression de photo";
